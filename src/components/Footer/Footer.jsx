@@ -59,7 +59,7 @@ const Footer = () => {
 
           <Col lg="2" md="4" sm="6">
             <div className="mb-4">
-              <h5 className="footer__link-title">Quick Links</h5>
+              <h5 className="footer__link-title">Navegacion Rápida</h5>
               <ListGroup>
                 {quickLinks.map((item, index) => (
                   <ListGroupItem key={index} className="p-0 mt-3 quick__link">
@@ -97,8 +97,8 @@ const Footer = () => {
 
           <Col lg="3" md="4" sm="12">
             <div className="mb-4">
-              <h5 className="footer__link-title">Newsletter</h5>
-              <p className="section__description">Subscribe our newsletter</p>
+              <h5 className="footer__link-title">Noticias</h5>
+              <p className="section__description">Subscribete para nuestras noticias</p>
               <div className="newsletter">
                 <input type="email" placeholder="Email" />
                 <span>
