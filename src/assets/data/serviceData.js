@@ -1,44 +1,44 @@
 const serviceData = [
   {
     id: 1,
-    title: "City Transfer",
+    title: "Transferencia entre Ciudades",
     icon: "ri-map-pin-2-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Podemos llevarte a distintas ciudades",
   },
 
   {
     id: 2,
-    title: "Whole  City Tour",
+    title: "Tour por toda la Ciudad",
     icon: "ri-community-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Te llevamos a los sitios turísticos y más atractivos",
   },
 
   {
     id: 3,
-    title: "Unlimited Miles Car Rental",
+    title: "Millas Ilimitadas",
     icon: "ri-roadster-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "No hay limite de cuantas millas puedes recorrer",
   },
 
   {
     id: 4,
-    title: "Fast & Easy Booking",
+    title: "Alquiler rapido y facil",
     icon: "ri-timer-flash-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "No tendras que gastar neuronas en nuestro proceso de alquiler de coches",
   },
 
   {
     id: 5,
-    title: "Many Pickup Locations",
+    title: "Muchos puntos de recogida",
     icon: "ri-map-pin-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Esto se comprende por si mísmo, puedes conseguir nuestro servicio en todo lados",
   },
 
   {
     id: 6,
-    title: "Airport Transfer",
+    title: "Transferencia al Aeropuerto",
     icon: "ri-flight-takeoff-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Te llevamos el auto al aeropuerto, eso sí, hay un cobro extra",
   },
 ];
 
