@@ -6,9 +6,9 @@ import img03 from "../all-images/blog-img/blog-3.jpg";
 const blogData = [
   {
     id: 1,
-    title: "The best way to drive cars",
-    author: "Muhib",
-    date: "12 Dec, 2020",
+    title: "La mejor manera de manejar autos",
+    author: "El Taxista Divertido",
+    date: "12 Dic, 2023",
     time: "9pm",
     imgUrl: img01,
     description:
@@ -19,9 +19,9 @@ const blogData = [
 
   {
     id: 2,
-    title: "If your car battery is down",
-    author: "Muhib",
-    date: "12 Dec, 2020",
+    title: "Cuando tu bateria muere....",
+    author: "Al Yahib Muhamed",
+    date: "12 Enero, 2024",
     time: "9pm",
     imgUrl: img02,
     description:
@@ -32,9 +32,9 @@ const blogData = [
 
   {
     id: 3,
-    title: "The best way to give trip",
-    author: "Muhib",
-    date: "12 Dec, 2020",
+    title: "La mejor manera de dar un viaje",
+    author: "DogFlauta",
+    date: "24 Enero, 2024",
     time: "9pm",
     imgUrl: img03,
     description:

@@ -9,11 +9,14 @@ import AboutSection from "../components/UI/AboutSection";
 import ServicesList from "../components/UI/ServicesList";
 import carData from "../assets/data/carData";
 import CarItem from "../components/UI/CarItem";
+import BecomeDriverSection from "../components/UI/BecomeDriverSection";
+import Testimonial from "../components/UI/Testimonial";
+import BlogList from "../components/UI/BlogList";
 
 const Home = () => {
   return (
     <Helmet title="Home">
-      {/* ============= hero section =========== */}
+      {/* ============= seccion heroe =========== */}
       <section className="p-0 hero__slider-section">
         <HeroSlider />
 
@@ -33,9 +36,9 @@ const Home = () => {
           </Container>
         </div>
       </section>
-      {/* =========== about section ================ */}
+      {/* =========== sobre seccion ================ */}
       <AboutSection />
-      {/* ========== services section ============ */}
+      {/* ========== seccion de servicios ============ */}
       <section>
         <Container>
           <Row>
@@ -48,7 +51,7 @@ const Home = () => {
           </Row>
         </Container>
       </section>
-      {/* =========== car offer section ============= */}
+      {/* =========== seccion de ofertas ============= */}
       <section>
         <Container>
           <Row>
@@ -60,6 +63,36 @@ const Home = () => {
             {carData.slice(0, 6).map((item) => (
               <CarItem item={item} key={item.id} />
             ))}
+          </Row>
+        </Container>
+      </section>
+      {/* =========== seccion de vuelvete chofern ============ */}
+      <BecomeDriverSection />
+
+      {/* =========== seccion de testimonios =========== */}
+      <section>
+        <Container>
+          <Row>
+            <Col lg="12" className="mb-4 text-center">
+              <h6 className="section__subtitle">Nuestros Clientes Dicen</h6>
+              <h2 className="section__title">Testimonios</h2>
+            </Col>
+
+            <Testimonial />
+          </Row>
+        </Container>
+      </section>
+
+      {/* =============== seccion del blog =========== */}
+      <section>
+        <Container>
+          <Row>
+            <Col lg="12" className="mb-5 text-center">
+              <h6 className="section__subtitle">Explora nuestro Blog</h6>
+              <h2 className="section__title">Ultimos Blogs</h2>
+            </Col>
+
+            <BlogList />
           </Row>
         </Container>
       </section>
