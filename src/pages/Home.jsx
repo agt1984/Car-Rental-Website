@@ -66,7 +66,7 @@ const Home = () => {
           </Row>
         </Container>
       </section>
-      {/* =========== seccion de vuelvete chofern ============ */}
+      {/* =========== seccion de vuelvete chofer ============ */}
       <BecomeDriverSection />
 
       {/* =========== seccion de testimonios =========== */}
