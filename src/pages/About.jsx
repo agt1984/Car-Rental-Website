@@ -7,7 +7,7 @@ import { Container, Row, Col } from "reactstrap";
 import BecomeDriverSection from "../components/UI/BecomeDriverSection";
 
 import driveImg from "../assets/all-images/drive.jpg";
-import OurMembers from "../components/UI/OurMembers";
+import OurMembers from "../components/UI/OurMenbers";
 import "../styles/about.css";
 
 const About = () => {
