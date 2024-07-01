@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import ava01 from "../../assets/all-images/ava-1.jpg";
 import ava02 from "../../assets/all-images/ava-2.jpg";
 import ava03 from "../../assets/all-images/ava-3.jpg";
+import baphi from "../../assets/all-images/baphi.jpg";
 
 const OUR__MEMBERS = [
   {
@@ -34,12 +35,12 @@ const OUR__MEMBERS = [
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava03,
+    imgUrl: baphi,
   },
 
   {
     name: "El Mengano",
-    experience: "Mi Gemelo es tonto",
+    experience: "Mi Gemelo, dice que no se droga, pero se droga",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
