@@ -13,7 +13,7 @@ import "../styles/about.css";
 const About = () => {
   return (
     <Helmet title="About">
-      <CommonSection title="About Us" />
+      <CommonSection title="Sobre Nosotros" />
       <AboutSection aboutClass="aboutPage" />
 
       <section className="about__page-section">
@@ -70,8 +70,8 @@ const About = () => {
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Experts</h6>
-              <h2 className="section__title">Our Members</h2>
+              <h6 className="section__subtitle">Expertos</h6>
+              <h2 className="section__title">Nuestros Miembros</h2>
             </Col>
             <OurMembers />
           </Row>

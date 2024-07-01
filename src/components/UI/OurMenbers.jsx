@@ -8,8 +8,8 @@ import ava03 from "../../assets/all-images/ava-3.jpg";
 
 const OUR__MEMBERS = [
   {
-    name: "Jhon Doe",
-    experience: "5 years of experience",
+    name: "El Fulano",
+    experience: "5 años de chofer sin drogarse",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
@@ -18,8 +18,8 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "David Lisa",
-    experience: "5 years of experience",
+    name: "Lisame el Orto",
+    experience: "5 años alisandose el .....",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
@@ -28,8 +28,8 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Hilton King",
-    experience: "5 years of experience",
+    name: "Baphomet",
+    experience: "Te lo juro, no soy el diablo",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
@@ -38,8 +38,8 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Jhon Doe",
-    experience: "5 years of experience",
+    name: "El Mengano",
+    experience: "Mi Gemelo es tonto",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
