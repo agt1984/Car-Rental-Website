@@ -19,8 +19,8 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Lisame el Orto",
-    experience: "5 años alisandose el .....",
+    name: "Lisa Melano",
+    experience: "No se por que se rien cuando escuchan mi nombre",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
