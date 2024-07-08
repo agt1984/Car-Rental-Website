@@ -42,6 +42,7 @@
 
 .header__middle {
   padding: 20px 0px;
+  background: linear-gradient(to right, rgb(100, 100, 231), #dda0dd);;
 }
 
 .logo h1 a span {
@@ -54,7 +55,7 @@
 
 .logo h1 a {
   text-decoration: none;
-  color: #000d6b;
+  color: #ffffff;
   font-weight: 700;
 }
 
@@ -64,13 +65,13 @@
 
 .header__location span i {
   font-size: 2.2rem;
-  color: #000d6b;
+  color: #ffffff;
 }
 
 .header__location-content h4 {
   font-size: 1.2rem;
   font-weight: 700;
-  color: #000d6b;
+  color: #ffffff;
 }
 
 .header__location-content h6 {
