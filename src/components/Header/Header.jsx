@@ -64,7 +64,7 @@ const Header = () => {
                     <i class="ri-car-line"></i>
                     <span>
                       E-Fast <br />{" "}
-                      <spam style={{ fontSize: "16.5px", color: "black" }}>
+                      <spam style={{ fontSize: "1.2rem" }}>
                         Numero 1 en alquiler de coches electricos
                       </spam>
                     </span>
