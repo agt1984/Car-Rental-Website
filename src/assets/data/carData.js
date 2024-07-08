@@ -23,7 +23,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " El Tesla Malibu es el último modelo innovador de la prestigiosa línea de vehículos eléctricos de Tesla. Este sedán de lujo combina elegancia con tecnología avanzada para ofrecer una experiencia de conducción superior. Equipado con un motor dual eléctrico, el Malibu proporciona una aceleración impresionante de 0 a 100 km/h en apenas 3.5 segundos, asegurando un rendimiento sin igual.",
   },
 
   {
@@ -39,7 +39,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "Automatic",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " El Toyota Aventador es la última incorporación eléctrica a la aclamada gama de vehículos de Toyota, fusionando potencia, eficiencia y diseño de vanguardia. Este deportivo eléctrico de alta gama se destaca por su impresionante rendimiento y su compromiso con la sostenibilidad. El Toyota Aventador está equipado con un sistema de propulsión eléctrica dual que entrega una potencia combinada de 600 caballos de fuerza. Su avanzada batería de alta capacidad ofrece una autonomía de hasta 750 km con una sola carga, haciendo que la emoción de conducir se prolongue sin compromisos. El diseño exterior del Aventador es un homenaje a la aerodinámica y la elegancia.",
   },
 
   {

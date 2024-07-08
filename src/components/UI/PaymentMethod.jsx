@@ -9,13 +9,13 @@ const PaymentMethod = () => {
     <>
       <div className="payment">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Transferencia BANCARIA dIRECTA
+          <input type="radio" /> Transferencia Bancaria Directa
         </label>
       </div>
 
       <div className="payment mt-3">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Cheque Payment
+          <input type="radio" /> Pago con Cheque
         </label>
       </div>
 
@@ -35,7 +35,7 @@ const PaymentMethod = () => {
         <img src={paypal} alt="" />
       </div>
       <div className="payment text-end mt-5">
-        <button>Reserve Now</button>
+        <button>Reserva Ahora</button>
       </div>
     </>
   );
